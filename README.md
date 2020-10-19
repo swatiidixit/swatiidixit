@@ -42,6 +42,17 @@ Here are some ideas to get you started:
 
 
 
+
+### Connect with me:
+
+
+
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="6.5%"/>](https://www.linkedin.com/in/swati-dixit-45891170)  [<img src="https://img.icons8.com/fluent/48/000000/google-plus.png" width="6.5%"/>](swatiidixit11@gmail.com)  [<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="6.5%"/>](https://www.hackerrank.com/swatiidixit11)  [<img src="https://img.icons8.com/fluent/48/000000/github.png" width="6.5%" alt="Github">](https://github.com/swatiidixit/)       <a href="https://dev.to/swatiidixit">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Swati Dixit's DEV Profile" height="60" width="60">
+</a>
+
+
+
 <!--
 **swatiidixit/swatiidixit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
