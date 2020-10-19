@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 💬 Ask me about anything and everything! If I don't know maybe I will learn something new!
 
-📫 How to reach me: swatiidixit@gmail.com
+📫 How to reach me: swatiidixit11@gmail.com
 
 ⚡ Fun fact: I am foodie and love to travel.
 
