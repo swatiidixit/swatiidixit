@@ -1,5 +1,5 @@
 <a href="https://dev.to/swatiidixit">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Swati Dixit's DEV Profile" height="30" width="30">
+  <i class="fab fa-dev" title="swatiidixit's DEV Profile"></i>
 </a>
 
 ### Hi there  👋
